@@ -63,7 +63,7 @@ Utilizes the NASA Turbofan Engine Degradation Simulation Data (CMAPSS), providin
 
 1.Clone the repository:
 
-git clone https://github.com/Sara-Esm/NASA-Turbofan-Engine-Predictive-Maintenance.git
+git clone https://github.com/Vidushinegi22/NASA-Turbofan-Engine-Predictive-Maintenance.git
 
 
 2.Install dependencies (e.g., pandas, xgboost, matplotlib, numpy).
